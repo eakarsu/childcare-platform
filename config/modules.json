@@ -1,0 +1,14 @@
+[
+  {
+    "id": "AIChildcareParentingAssistant",
+    "name": "Childcare parenting assistant",
+    "sourceProject": "AIChildcareParentingAssistant",
+    "services": []
+  },
+  {
+    "id": "AIDaycareOperationsPlatform",
+    "name": "Daycare operations platform",
+    "sourceProject": "AIDaycareOperationsPlatform",
+    "services": []
+  }
+]

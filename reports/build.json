@@ -1,0 +1,9 @@
+{
+  "app": "childcare-platform",
+  "features": 83,
+  "sourceApps": 2,
+  "calculatorEngines": 0,
+  "registryHash": "d78cb0949a15ecc202ddd13a9d37338f2182a35d3f5151cd762863fa3be5eb51",
+  "builtAt": "2026-09-07T22:05:59.557Z",
+  "status": "built"
+}

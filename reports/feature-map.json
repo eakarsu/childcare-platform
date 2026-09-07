@@ -1,0 +1,629 @@
+{
+  "mapped": [
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/children",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "children",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/milestones",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "milestones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/activities",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "activities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/health_records",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "health-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/sleep_records",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "sleep-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/feeding_records",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "feeding-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/growth_records",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "growth-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/vaccinations",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "vaccinations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/behavioral_notes",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "behavioral-notes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/journal_entries",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "journal-entries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/medications",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "medications",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/appointments",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "appointments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/emergency_contacts",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "emergency-contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/learning_resources",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "learning-resources",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/diaper_records",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "diaper-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/expenses",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "expenses",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/caregiver_logs",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "caregiver-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/daily_routines",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "daily-routines",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/tooth_records",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "tooth-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/photo_memories",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "photo-memories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/chores",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "chores",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/allergy_logs",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "allergy-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/playdates",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "playdates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/shopping_lists",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "shopping-lists",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "/ai-advisor",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/config/features.js",
+      "canonical": "advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "Milestone Comparison",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/pages/AIToolsPage.jsx",
+      "canonical": "milestone-comparison",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "Sleep Pattern Optimizer",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/pages/AIToolsPage.jsx",
+      "canonical": "sleep-pattern-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "Nutrition Advisor",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/pages/AIToolsPage.jsx",
+      "canonical": "nutrition-advisor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "Behavior Pattern Analyzer",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/pages/AIToolsPage.jsx",
+      "canonical": "behavior-pattern-analyzer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "Illness & Recovery Tracker",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/pages/AIToolsPage.jsx",
+      "canonical": "illness-recovery-tracker",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "Parental Stress Monitor",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/pages/AIToolsPage.jsx",
+      "canonical": "parental-stress-monitor",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "Screen Time Manager",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/pages/AIToolsPage.jsx",
+      "canonical": "screen-time-manager",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "Sibling Harmony Coach",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/pages/AIToolsPage.jsx",
+      "canonical": "sibling-harmony-coach",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "Health Trend Brief",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant/frontend/src/pages/AIToolsPage.jsx",
+      "canonical": "health-trend-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "ai-results",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant",
+      "canonical": "results",
+      "kind": "route"
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "sourceKey": "screen-time-balance",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant",
+      "canonical": "screen-time-balance",
+      "kind": "route"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/milestones",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "milestones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/communications",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/ratios",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "ratios",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/billing",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "billing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/attendance",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "attendance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/incidents",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "incidents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/meals",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "meals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/allergy-action-plan",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "allergy-action-plan",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/enrollment",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "enrollment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/emergency",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "emergency-contacts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/classrooms",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "classrooms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/activities",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "activities",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/immunizations",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "immunizations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/waiting-list",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "waiting-list",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/daily-reports",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "daily-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/assessments",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "assessments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/staff-scheduling",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "staff-scheduling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/ai-features",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "features",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/cf/predictive-child-development-flagging",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "predictive-child-development-flagging",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/cf/parent-engagement-prediction",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "parent-engagement-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/cf/staff-burnout-prediction",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "staff-burnout-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/cf/curriculum-personalization",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "curriculum-personalization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/cf/nutrition-optimization",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "nutrition-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/gap/none-major-strong-ai-to-route-alignment-across-compliance-mi",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "none-major-strong-ai-to-route-alignment-across-compliance-mi",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/gap/inventory-lacks-ai-reorder-prediction",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "inventory-lacks-ai-reorder-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/gap/attendance-lacks-ai-no-show-prediction",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "attendance-lacks-ai-no-show-prediction",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/gap/no-photo-video-sharing-with-parents-privacy-compliant",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "photo-video-sharing-with-parents-privacy-compliant",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/gap/limited-mobile-app-for-parents-only-stub-hooks",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "limited-mobile-app-for-parents-only-stub-hooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/gap/limited-integration-with-health-immunization-registries",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "limited-integration-with-health-immunization-registries",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/gap/no-state-specific-compliance-validation-rules-engine",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "state-specific-compliance-validation-rules-engine",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "/gap/no-webhooks",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "canonical": "webhooks",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "allergy-conflict-check",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform",
+      "canonical": "allergy-conflict-check",
+      "kind": "route"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "emergency-drill-recommend",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform",
+      "canonical": "emergency-drill-recommend",
+      "kind": "route"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "sibling-classroom-coord",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform",
+      "canonical": "sibling-classroom-coord",
+      "kind": "route"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "tuition-subsidy-calc",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform",
+      "canonical": "tuition-subsidy-calc",
+      "kind": "route"
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "sourceKey": "results",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform",
+      "canonical": "results",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "AIChildcareParentingAssistant",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "key": "register",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIChildcareParentingAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "key": "/:feature",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIChildcareParentingAssistant",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform/client/src/components/Sidebar.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIDaycareOperationsPlatform",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDaycareOperationsPlatform",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": []
+}

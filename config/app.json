@@ -1,0 +1,19 @@
+{
+  "id": "childcare-platform",
+  "title": "Childcare & daycare operations",
+  "buyer": "Daycare owners and staff",
+  "sourceCount": 2,
+  "sources": [
+    "AIChildcareParentingAssistant",
+    "AIDaycareOperationsPlatform"
+  ],
+  "status": "proposed build; not implemented",
+  "canonicalFeatureStatus": "Requires feature-level mapping and workflow migration; source route counts are not feature-completion counts.",
+  "port": 46042,
+  "productName": "Childcare Workspace",
+  "runtimeVersion": "1.0.0",
+  "sourceRoots": [
+    "/Volumes/external/projects/AIChildcareParentingAssistant",
+    "/Volumes/external/projects/AIDaycareOperationsPlatform"
+  ]
+}

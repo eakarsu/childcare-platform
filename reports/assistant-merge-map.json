@@ -1,0 +1,161 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "advisor",
+      "milestone-comparison",
+      "nutrition-advisor",
+      "illness-recovery-tracker",
+      "parental-stress-monitor",
+      "screen-time-manager",
+      "sibling-harmony-coach",
+      "results",
+      "assessments",
+      "features"
+    ],
+    "ai": true,
+    "representativeId": "advisor",
+    "description": "One assistant for 10 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "advisor",
+        "title": "AI Parenting Advisor",
+        "originalPath": "/features/advisor"
+      },
+      {
+        "id": "milestone-comparison",
+        "title": "Milestone Comparison",
+        "originalPath": "/features/milestone-comparison"
+      },
+      {
+        "id": "nutrition-advisor",
+        "title": "Nutrition Advisor",
+        "originalPath": "/features/nutrition-advisor"
+      },
+      {
+        "id": "illness-recovery-tracker",
+        "title": "Illness & Recovery Tracker",
+        "originalPath": "/features/illness-recovery-tracker"
+      },
+      {
+        "id": "parental-stress-monitor",
+        "title": "Parental Stress Monitor",
+        "originalPath": "/features/parental-stress-monitor"
+      },
+      {
+        "id": "screen-time-manager",
+        "title": "Screen Time Manager",
+        "originalPath": "/features/screen-time-manager"
+      },
+      {
+        "id": "sibling-harmony-coach",
+        "title": "Sibling Harmony Coach",
+        "originalPath": "/features/sibling-harmony-coach"
+      },
+      {
+        "id": "results",
+        "title": "Results",
+        "originalPath": "/features/results"
+      },
+      {
+        "id": "assessments",
+        "title": "AI Assessments",
+        "originalPath": "/features/assessments"
+      },
+      {
+        "id": "features",
+        "title": "AI Features",
+        "originalPath": "/features/features"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "sleep-pattern-optimizer",
+      "behavior-pattern-analyzer",
+      "health-trend-brief",
+      "predictive-child-development-flagging",
+      "parent-engagement-prediction",
+      "staff-burnout-prediction",
+      "emergency-drill-recommend"
+    ],
+    "ai": true,
+    "representativeId": "sleep-pattern-optimizer",
+    "description": "One assistant for 7 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "sleep-pattern-optimizer",
+        "title": "Sleep Pattern Optimizer",
+        "originalPath": "/features/sleep-pattern-optimizer"
+      },
+      {
+        "id": "behavior-pattern-analyzer",
+        "title": "Behavior Pattern Analyzer",
+        "originalPath": "/features/behavior-pattern-analyzer"
+      },
+      {
+        "id": "health-trend-brief",
+        "title": "Health Trend Brief",
+        "originalPath": "/features/health-trend-brief"
+      },
+      {
+        "id": "predictive-child-development-flagging",
+        "title": "CF: PredictiveChildDevelopme",
+        "originalPath": "/features/predictive-child-development-flagging"
+      },
+      {
+        "id": "parent-engagement-prediction",
+        "title": "CF: ParentEngagementPredicti",
+        "originalPath": "/features/parent-engagement-prediction"
+      },
+      {
+        "id": "staff-burnout-prediction",
+        "title": "CF: StaffBurnoutPrediction",
+        "originalPath": "/features/staff-burnout-prediction"
+      },
+      {
+        "id": "emergency-drill-recommend",
+        "title": "Emergency drill recommend",
+        "originalPath": "/features/emergency-drill-recommend"
+      }
+    ]
+  }
+]
